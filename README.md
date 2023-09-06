@@ -43,9 +43,4 @@ python email_ninja.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-- [Your Name]
-- GitHub: [Your GitHub Profile](https://github.com/[YourUsername])
-
 We welcome contributions, issue reports, and suggestions for enhancements. Make your email sending tasks a breeze with Email Ninja!
